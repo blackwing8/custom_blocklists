@@ -1,3 +1,3 @@
-||twitter.com
-||apple.com
-||google.com
+||twitter.com^$ctag=device_gameconsole
+||apple.com^$ctag=device_gameconsole
+||google.com^$ctag=device_gameconsole
