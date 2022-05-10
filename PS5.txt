@@ -1,3 +1,2 @@
 ||twitter.com^$client='PS5'
 ||apple.com^$client='PS5'
-||google.com^$client='PS5'
