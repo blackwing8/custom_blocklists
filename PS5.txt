@@ -1,2 +1,5 @@
 ||twitter.com^$client='PS5'
 ||apple.com^$client='PS5'
+||spotify.com^$client='PS5'
+||reddit.com^$client='PS5'
+||imgur.com^$client='PS5'
