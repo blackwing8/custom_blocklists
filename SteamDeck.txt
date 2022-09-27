@@ -9,3 +9,5 @@
 ||dailymotion.com^$client='SteamDeck'
 ||vimeo.com^$client='SteamDeck'
 ||disqus.com^$client='SteamDeck'
+||discord.com^$client='SteamDeck'
+||discordapp.com^$client='SteamDeck'
