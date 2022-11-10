@@ -1,2 +1,4 @@
 ||disqus.com^$client='Williams Desktop'
 ||imgur.com^$client='Williams Desktop'
+||mega.nz^$client='Williams Desktop'
+||mega.co^$client='Williams Desktop'
