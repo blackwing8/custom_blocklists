@@ -1,0 +1,3 @@
+@@|microsoft.com^$important
+@@|covenanteyes.com^$important
+@@|hp.com^$important
