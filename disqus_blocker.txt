@@ -2,3 +2,5 @@
 ||imgur.com^$client='Williams Desktop'
 ||mega.nz^$client='Williams Desktop'
 ||mega.co^$client='Williams Desktop'
+@@||microsoft.com^$client='Williams Desktop'
+@@||covenanteyes.com^$client='Williams Desktop'
