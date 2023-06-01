@@ -2,3 +2,4 @@
 @@|covenanteyes.com^$important
 @@|hp.com^$important
 @@|apps.microsoft.com/
+@@|programming-23.mooc.fi^$important
