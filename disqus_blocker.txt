@@ -3,3 +3,5 @@
 ||mega.nz
 ||mega.co
 ||github.io
+||reddit.com
+||twitter.com
