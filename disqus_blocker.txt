@@ -2,6 +2,5 @@
 ||imgur.com
 ||mega.nz
 ||mega.co
-||github.io
 ||twitter.com
 
