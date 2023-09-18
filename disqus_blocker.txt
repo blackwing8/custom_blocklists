@@ -3,4 +3,5 @@
 ||mega.nz
 ||mega.co
 ||twitter.com
-
+||x.com
+||reddit.com
