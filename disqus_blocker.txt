@@ -6,3 +6,5 @@
 ||x.com
 ||reddit.com
 ||imgchest.com
+||yandex.com
+||startpage.com
