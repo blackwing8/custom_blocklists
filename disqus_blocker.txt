@@ -8,3 +8,6 @@
 ||imgchest.com
 ||yandex.com
 ||startpage.com
+||prompthero.com
+||prompthero.co
+||openjourney.art
