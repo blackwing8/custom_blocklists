@@ -11,3 +11,4 @@
 ||disqus.com^$client='SteamDeck'
 ||discord.com^$client='SteamDeck'
 ||discordapp.com^$client='SteamDeck'
+||steamcommunity.com^$client='SteamDeck'
