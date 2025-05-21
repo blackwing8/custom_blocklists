@@ -12,3 +12,4 @@
 ||discord.com^$client='SteamDeck'
 ||discordapp.com^$client='SteamDeck'
 ||steamcommunity.com^$client='SteamDeck'
+||steampowered.com^$client='SteamDeck'
