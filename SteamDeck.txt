@@ -13,3 +13,5 @@
 ||discordapp.com^$client='SteamDeck'
 ||steamcommunity.com^$client='SteamDeck'
 ||steampowered.com^$client='SteamDeck'
+||bing.com^$client='SteamDeck'
+||flathub.org^$client='SteamDeck'
