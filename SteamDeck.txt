@@ -1,3 +1,4 @@
+! General website blocking
 ||twitter.com^$client='SteamDeck'
 ||spotify.com^$client='SteamDeck'
 ||reddit.com^$client='SteamDeck'
@@ -11,7 +12,9 @@
 ||disqus.com^$client='SteamDeck'
 ||discord.com^$client='SteamDeck'
 ||discordapp.com^$client='SteamDeck'
+||bing.com^$client='SteamDeck'
+! These are to block the steam store. Intent is to buy games on PC, then download on SD
 ||steamcommunity.com^$client='SteamDeck'
 ||steampowered.com^$client='SteamDeck'
-||bing.com^$client='SteamDeck'
+! Attempt to block flathub, which should disable discovery store on destop mode
 ||flathub.org^$client='SteamDeck'
