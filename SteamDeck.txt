@@ -17,4 +17,6 @@
 ||steamcommunity.com^$client='SteamDeck'
 ||steampowered.com^$client='SteamDeck'
 ! Attempt to block flathub, which should disable discovery store on destop mode
+! Can disable this if accessing new software is necessary
 ||flathub.org^$client='SteamDeck'
+
